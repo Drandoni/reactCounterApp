@@ -5,7 +5,7 @@ class Counter extends Component {
     count: 0,
     tags: [
       /*"tag1", "tag2", "tag3"*/
-    ], //commented out the array elements
+    ], //commented out the array elements and changing email address for github
   };
 
   renderTags() {
